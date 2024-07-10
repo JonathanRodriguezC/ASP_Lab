@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\models\\peliculasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:models\\peliculasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|c:\\users\\user\\documents\\desarrollo de software empresarial 01l\\guia1\\mvcpelicula\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129995DE-D729-4BC6-8D37-CCD6AF6736DE}|MVCPelicula.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:29:25.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Models\\Pelicula.cs",
+              "RelativeToolTip": "Models\\Pelicula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:13:51.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeliculasDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\PeliculasDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "RelativeToolTip": "Models\\PeliculasDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:21:11.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T00:00:11.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:34:51.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:34:34.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:38:11.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:59:27.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:38:06.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:47:18.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Desarrollo de Software Empresarial 01L\\Guia1\\MVCPelicula\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T23:56:08.977Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
