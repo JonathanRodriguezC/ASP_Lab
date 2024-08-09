@@ -1,11 +1,23 @@
-﻿namespace MVCPelicula.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace MVCPelicula.Models
 {
     public class Pelicula
     {
         public int ID { get; set; }
+        [StringLength(250)]
+        [Required]
         public string Titulo { get; set; }
         public DateTime FechaLanzamiento { get; set; }
+        [StringLength(15)]
+        [Required]
         public string Genero { get; set; }
-        public string Precio { get; set; }
+        [Required]
+        public decimal Precio { get; set; }
+        [StringLength(250)]
+        [Required]
+        public string Director { get; set; }
+
     }
+
 }
