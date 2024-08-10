@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MVCPelicula.Models
 {
@@ -9,15 +10,21 @@ namespace MVCPelicula.Models
         [Required]
         public string Titulo { get; set; }
         public DateTime FechaLanzamiento { get; set; }
+        
         [StringLength(15)]
         [Required]
-        public string Genero { get; set; }
+        public int ? GeneroId { get; set; }
+
+        public Genero Genero { get; set; }
         [Required]
         public decimal Precio { get; set; }
         [StringLength(250)]
         [Required]
         public string Director { get; set; }
 
+
     }
+
+    
 
 }
